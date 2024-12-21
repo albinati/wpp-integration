@@ -14,8 +14,8 @@ This project retrieves messages from a WhatsApp group, parses them using ChatGPT
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/whatsapp-group-parser.git
-    cd whatsapp-group-parser
+    git clone https://github.com/albinati/wpp-integration.git
+    cd wpp-integration
     ```
 
 2. Install dependencies:
